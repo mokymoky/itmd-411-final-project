@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tickets_FA21:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Tickets_FA21_jar</output-path>
+    <root id="archive" name="Tickets_FA21.jar">
+      <element id="module-output" name="Tickets_FA21" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mysql-connector-java-8.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
